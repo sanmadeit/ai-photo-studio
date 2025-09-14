@@ -1,0 +1,5 @@
+{
+  "name": "AI Product Photo Studio",
+  "description": "Upload one or more product images and transform each into a high-quality, studio-style image using AI. This app enhances lighting, removes backgrounds, and color corrects to create professional photos for your e-commerce catalog.",
+  "requestFramePermissions": []
+}
